@@ -1,0 +1,86 @@
+<html>
+
+<title>
+Simple LInes
+</title>
+
+<style type="text/css">
+
+body{background:url(IMG/timgB0TIBITN.jpg)repeat-x;}
+.button {
+	position: relative;
+	background-color: #4CAF50;
+	border: none;
+	font-size: 28px;
+	color: #FFFFFF;
+	padding: 20px;
+	width: 400px;
+	text-align: center;
+	-webkit-transition-duration: 0.4s; /* Safari */
+	transition-duration: 0.4s;
+	text-decoration: none;
+	overflow: hidden;
+	cursor: pointer;
+	margin: 4px 600px;
+}
+
+.button:after {
+    content: "";
+    background: #90EE90;
+    display: block;
+    position: absolute;
+    padding-top: 300%;
+    padding-left: 350%;
+    margin-left: -20px;
+    margin-top: -120%;
+    opacity: 0;
+    transition: all 0.8s
+}
+
+.button:active:after {
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+    transition: 0s
+}
+</style>
+<body>
+<div>
+
+<h1><strong><span style="color:white;">HTML document can be divided into paragraphs.</span></strong></h1>
+</div>
+
+
+<div style="color:#FFF">
+<h2>HTML paragraphs:</h2>
+
+<h2>Paragraphs are defined by the&lt;p&gt; tag.</h2>
+<p>&nbsp;</p>
+
+<h3>For example</h3>
+
+<pre>
+&lt;p&gt;This is a paragraph&lt;/p&gt;
+
+&lt;p&gt;This is another paragraph&lt;/p&gt;
+</pre>
+
+
+<p><h3>Notes:</h3>
+The browser automatically adds blank lines before and after the paragraph.（&lt;p&gt;Is a block level element）</p>
+
+<p class="tip"><h3>Hins:</h3>
+Using the empty paragraph tag&lt;p&gt; &lt;/p&gt; to insert a blank line is a bad habit. Replace it with the &lt;/br&gt;tag!</p>
+</div>
+
+
+<div style="color:#F00">
+<h1 align="center">DO NOT FORGET ENDING TAG!!</h1>
+</div>
+
+
+<button class="button"><a href="ix.html">Click me to go back</a></button>
+
+</body>
+
+</html>

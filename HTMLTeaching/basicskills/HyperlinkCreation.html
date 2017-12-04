@@ -1,0 +1,103 @@
+<html>
+
+<title>
+HyperlinkCreation
+</title>
+
+<head>
+<style type="text/css">
+
+body{background:url(IMG/timgB0TIBITN.jpg)repeat-x;}
+
+
+.button {
+	position: relative;
+	background-color: #4CAF50;
+	border: none;
+	font-size: 28px;
+	color: #FFFFFF;
+	padding: 20px;
+	width: 400px;
+	text-align: center;
+	-webkit-transition-duration: 0.4s; /* Safari */
+	transition-duration: 0.4s;
+	text-decoration: none;
+	overflow: hidden;
+	cursor: pointer;
+	margin: 4px 600px;
+}
+
+.button:after {
+    content: "";
+    background: #90EE90;
+    display: block;
+    position: absolute;
+    padding-top: 300%;
+    padding-left: 350%;
+    margin-left: -20px;
+    margin-top: -120%;
+    opacity: 0;
+    transition: all 0.8s
+}
+
+.button:active:after {
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+    transition: 0s
+}
+</style>
+<body>
+<div>
+
+<h1><strong><span style="color:white;">This is something important I think</span></strong></h1>
+</div>
+
+
+<div style="color:#FFF">
+<h2>So I would do it more specifically</h2>
+
+<h2>Watch this:</h2>
+<p>&nbsp;</p>
+
+</div>
+
+
+
+
+<pre style="color:yellow">
+&lt;html&gt;
+&lt;head&gt;
+<p>&lt;p&gt;<br>
+  &lt;a href=&quot;/index.html&quot;&gt;TEXT&lt;/a&gt; Is a link to one of the pages in this site.&lt;/p&gt;</p>
+<p>&lt;p&gt;&lt;a href=&quot;http://www.microsoft.com/&quot;&gt;TEXT&lt;/a&gt;Is a link to a page on the World Wide Web.&lt;/p&gt;</p>
+&lt;body&gt;
+&lt;html&gt;
+
+</pre>
+<div style="color:#FFF">
+
+<a href="/index.html"><font color="#FFFF00">TEXT</font></a> Is a link to one of the pages in this site.</p>
+
+<p><a href="http://www.microsoft.com/"><font color="#FFFF00">TEXT</font></a> Is a link to a page on the World Wide Web.</p>
+
+</div>
+
+
+
+
+<h3 font style="color:red">
+<b>If you want to open your link in an new page try to do this
+</h3>
+
+<pre>
+
+<p font style="color:red">&lt;a href="http://www.baidu.com/<em>"target="_blank"</em>&gt;Visit Baidu!&lt;/a&gt;</p>
+ 
+ </pre>
+ <h3 font style="color:red">
+If you set the link's target property to "_blank", the link will open in a new window
+</h3>
+ 
+  <button class="button"><p><a href="ix.html">Click me to go back</a></p>
+</button>
