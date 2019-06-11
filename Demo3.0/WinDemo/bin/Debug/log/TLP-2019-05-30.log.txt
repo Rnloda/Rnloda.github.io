@@ -1,0 +1,5 @@
+[20:02:34,518][9748][INFO ][WinDemo.Form1:31] - <log4net.Error>Exception during StringFormat: 索引(从零开始)必须大于或等于零，且小于参数列表的大小。 <format>操作系统：{0}位,客户端IP地址:{1},Mac地址:{2}}。</format><args>{64, 10.180.80.65}</args></log4net.Error>
+[20:03:59,391][9800][INFO ][WinDemo.Form1:31] - <log4net.Error>Exception during StringFormat: 输入字符串的格式不正确。 <format>操作系统：{0}位,客户端IP地址:{1},Mac地址:{2}}。</format><args>{64, 10.180.80.65, 68:F7:28:5D:42:FA}</args></log4net.Error>
+[20:05:57,497][11800][INFO ][WinDemo.Form1:31] - <log4net.Error>Exception during StringFormat: 输入字符串的格式不正确。 <format>操作系统：{0}位,客户端IP地址:{1},Mac地址:{2}}。</format><args>{64, 10.180.80.65, 68:F7:28:5D:42:FA}</args></log4net.Error>
+[20:07:00,371][10256][INFO ][WinDemo.Form1:31] - 操作系统：64位,客户端IP地址:10.180.80.65,Mac地址:68:F7:28:5D:42:FA。
+[20:09:50,482][5396][INFO ][WinDemo.Form1:31] - 操作系统：64位,客户端IP地址:10.180.80.65,Mac地址:68:F7:28:5D:42:FA。

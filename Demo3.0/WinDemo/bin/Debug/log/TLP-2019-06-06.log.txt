@@ -1,0 +1,121 @@
+[08:32:29,270][560][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[08:34:15,139][9116][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[08:39:43,156][9116][DEBUG][WinDemo.UserAddForm:112] - A
+[08:44:02,971][6272][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[09:01:56,960][8312][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[09:14:01,211][8724][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[09:14:46,075][8724][DEBUG][WinDemo.UserAddForm:112] - A
+[10:51:57,666][6264][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[10:53:41,406][6264][DEBUG][WinDemo.UserAddForm:112] - A
+[10:55:55,970][6264][DEBUG][WinDemo.UserAddForm:112] - A
+[10:59:11,992][3008][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[10:59:21,347][9480][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[11:00:07,649][5560][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[11:00:35,589][5560][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00001: unique constraint (IDMP.Z_TMP_USER_KEY) violated
+
+[11:00:38,187][5560][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00001: unique constraint (IDMP.Z_TMP_USER_KEY) violated
+
+[11:01:53,468][9472][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[11:03:55,469][9520][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[11:04:39,893][3460][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[11:05:49,853][2572][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[11:09:52,545][3972][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[11:10:09,157][3972][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00001: unique constraint (IDMP.Z_TMP_USER_KEY) violated
+
+[11:10:09,891][3972][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00001: unique constraint (IDMP.Z_TMP_USER_KEY) violated
+
+[11:10:10,297][3972][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00001: unique constraint (IDMP.Z_TMP_USER_KEY) violated
+
+[11:10:10,474][3972][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00001: unique constraint (IDMP.Z_TMP_USER_KEY) violated
+
+[11:10:10,572][3972][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00001: unique constraint (IDMP.Z_TMP_USER_KEY) violated
+
+[11:10:10,734][3972][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00001: unique constraint (IDMP.Z_TMP_USER_KEY) violated
+
+[11:10:10,852][3972][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00001: unique constraint (IDMP.Z_TMP_USER_KEY) violated
+
+[11:10:11,011][3972][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00001: unique constraint (IDMP.Z_TMP_USER_KEY) violated
+
+[11:10:11,160][3972][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00001: unique constraint (IDMP.Z_TMP_USER_KEY) violated
+
+[11:10:11,311][3972][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00001: unique constraint (IDMP.Z_TMP_USER_KEY) violated
+
+[11:10:50,920][7460][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[11:11:04,901][7460][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00001: unique constraint (IDMP.Z_TMP_USER_KEY) violated
+
+[11:11:05,261][7460][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00001: unique constraint (IDMP.Z_TMP_USER_KEY) violated
+
+[11:11:05,422][7460][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00001: unique constraint (IDMP.Z_TMP_USER_KEY) violated
+
+[11:11:05,594][7460][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00001: unique constraint (IDMP.Z_TMP_USER_KEY) violated
+
+[11:11:05,755][7460][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00001: unique constraint (IDMP.Z_TMP_USER_KEY) violated
+
+[11:11:05,891][7460][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00001: unique constraint (IDMP.Z_TMP_USER_KEY) violated
+
+[11:11:06,105][7460][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00001: unique constraint (IDMP.Z_TMP_USER_KEY) violated
+
+[11:11:06,274][7460][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00001: unique constraint (IDMP.Z_TMP_USER_KEY) violated
+
+[11:11:06,453][7460][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00001: unique constraint (IDMP.Z_TMP_USER_KEY) violated
+
+[11:11:06,614][7460][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00001: unique constraint (IDMP.Z_TMP_USER_KEY) violated
+
+[11:11:41,265][3752][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[11:13:01,518][6948][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[11:13:47,420][5608][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[11:14:04,035][5608][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00001: unique constraint (IDMP.Z_TMP_USER_KEY) violated
+
+[11:14:05,132][5608][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00001: unique constraint (IDMP.Z_TMP_USER_KEY) violated
+
+[11:14:05,595][5608][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00001: unique constraint (IDMP.Z_TMP_USER_KEY) violated
+
+[11:14:05,979][5608][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00001: unique constraint (IDMP.Z_TMP_USER_KEY) violated
+
+[11:14:06,448][5608][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00001: unique constraint (IDMP.Z_TMP_USER_KEY) violated
+
+[11:14:13,899][5608][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00001: unique constraint (IDMP.Z_TMP_USER_KEY) violated
+
+[11:14:14,055][5608][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00001: unique constraint (IDMP.Z_TMP_USER_KEY) violated
+
+[11:14:14,209][5608][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00001: unique constraint (IDMP.Z_TMP_USER_KEY) violated
+
+[11:14:22,432][4632][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[11:14:31,940][4632][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00001: unique constraint (IDMP.Z_TMP_USER_KEY) violated
+
+[11:14:32,282][4632][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00001: unique constraint (IDMP.Z_TMP_USER_KEY) violated
+
+[11:14:32,437][4632][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00001: unique constraint (IDMP.Z_TMP_USER_KEY) violated
+
+[11:14:32,738][4632][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00001: unique constraint (IDMP.Z_TMP_USER_KEY) violated
+
+[11:14:46,453][7376][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[11:14:54,336][7376][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00001: unique constraint (IDMP.Z_TMP_USER_KEY) violated
+
+[11:16:25,266][4460][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[11:18:44,731][3972][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[11:19:44,490][1160][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[11:21:15,495][8240][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[11:21:40,207][8240][DEBUG][WinDemo.UserAddForm:112] - A
+[11:23:41,635][3280][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[11:24:44,319][1244][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[13:09:14,324][1888][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[13:11:00,786][1888][DEBUG][WinDemo.UserAddForm:112] - A
+[13:13:45,785][1888][DEBUG][WinDemo.UserAddForm:112] - A
+[13:16:49,359][1444][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[13:22:08,476][10052][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[13:23:28,405][9688][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[13:27:17,728][8124][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[13:28:48,732][5864][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[13:30:36,420][480][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[13:32:03,184][6860][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[13:32:40,568][4008][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[13:33:06,805][9704][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[16:03:26,831][7688][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[16:06:45,687][9116][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[16:22:16,988][2352][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[16:24:00,538][9036][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[16:24:31,660][9736][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[16:26:29,562][1704][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[16:48:54,542][6712][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[17:11:52,176][6712][DEBUG][WinDemo.UserAddForm:112] - A

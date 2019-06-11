@@ -1,0 +1,242 @@
+[08:33:24,724][4972][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[10:25:32,550][9816][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[10:26:13,444][9816][DEBUG][WinDemo.UserAddForm:112] - A
+[10:28:03,251][9816][DEBUG][WinDemo.UserAddForm:112] - A
+[10:47:37,477][9176][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[10:47:56,353][9176][INFO ][WinDemo.UserForm:86] - N删除1,
+[10:48:37,872][9176][INFO ][WinDemo.UserForm:86] - N删除1,
+[10:48:56,773][9176][INFO ][WinDemo.UserForm:86] - N删除1,
+[10:49:16,117][9176][INFO ][WinDemo.UserForm:86] - N删除1,
+[10:55:48,248][8576][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[11:12:02,782][8636][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[11:12:13,266][8636][DEBUG][WinDemo.UserAddForm:105] - A
+[11:12:13,422][8636][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-01756: 引号内的字符串没有正确结束
+
+[11:12:33,716][5536][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[11:13:43,198][1452][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[11:15:18,110][7860][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[11:15:25,895][7860][DEBUG][WinDemo.UserAddForm:105] - A
+[11:16:37,236][9896][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[11:16:45,695][9896][DEBUG][WinDemo.UserAddForm:98] - A
+[11:16:45,736][9896][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-01830: date format picture ends before converting entire input string
+
+[11:17:36,932][3624][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[11:17:44,569][3624][DEBUG][WinDemo.UserAddForm:98] - A
+[11:17:44,637][3624][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-01830: date format picture ends before converting entire input string
+
+[11:18:04,728][4712][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[11:19:28,710][6800][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[11:19:35,481][6800][DEBUG][WinDemo.UserAddForm:98] - A
+[11:21:01,139][6600][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[11:21:12,518][6600][DEBUG][WinDemo.UserAddForm:96] - A
+[11:23:25,577][5140][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[11:24:41,177][7672][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[11:26:52,135][3732][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[11:27:39,797][6136][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[11:29:30,451][6688][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[11:30:44,713][3628][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[11:32:07,815][9504][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[11:32:22,216][9164][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[13:09:06,102][9052][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[13:09:26,662][9052][DEBUG][WinDemo.UserAddForm:83] - A
+[13:09:43,119][9052][DEBUG][WinDemo.UserAddForm:83] - A
+[13:11:03,942][8304][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[13:11:18,073][8304][DEBUG][WinDemo.UserAddForm:87] - A
+[13:11:34,224][6488][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[13:11:49,739][6488][DEBUG][WinDemo.UserAddForm:88] - A
+[13:12:06,836][6488][DEBUG][WinDemo.UserAddForm:88] - A
+[13:12:31,834][2476][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[13:14:04,527][9096][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[13:14:10,631][9096][DEBUG][WinDemo.UserAddForm:87] - A
+[13:14:19,073][9096][DEBUG][WinDemo.UserAddForm:87] - A
+[13:14:23,877][9096][DEBUG][WinDemo.UserAddForm:87] - A
+[13:14:36,543][4492][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[13:14:44,905][4492][DEBUG][WinDemo.UserAddForm:88] - A
+[13:14:48,932][4492][INFO ][WinDemo.UserForm:86] - N删除1,
+[13:18:38,259][6964][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[13:23:27,618][6636][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[13:23:35,382][6636][INFO ][WinDemo.UserForm:74] - 删除91,11
+[13:27:03,762][8680][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[13:27:09,727][8680][INFO ][WinDemo.UserForm:74] - 删除编号89,姓名11
+[13:33:00,412][4080][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[13:33:46,761][4772][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[13:34:05,899][4772][DEBUG][WinDemo.SubAlter:80] - A
+[13:35:55,141][4796][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[13:38:04,315][4008][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[13:38:14,181][4008][DEBUG][WinDemo.SubAlter:71] - A
+[13:38:16,777][4008][DEBUG][WinDemo.SubAlter:71] - A
+[13:38:29,249][4008][DEBUG][WinDemo.SubAlter:71] - A
+[13:38:52,603][6744][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[13:40:08,590][8012][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[13:41:18,865][7664][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[13:41:49,900][7412][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[13:42:56,476][10152][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[13:44:18,771][9028][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[13:44:33,883][9028][DEBUG][WinDemo.SubAlter:75] - A
+[13:46:51,318][836][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[13:52:17,756][5712][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[13:52:43,800][8028][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[13:52:50,196][8028][DEBUG][WinDemo.SubAlter:71] - A
+[13:52:51,617][8028][DEBUG][WinDemo.SubAlter:71] - A
+[13:52:51,791][8028][DEBUG][WinDemo.SubAlter:71] - A
+[13:52:51,941][8028][DEBUG][WinDemo.SubAlter:71] - A
+[13:52:52,024][8028][DEBUG][WinDemo.SubAlter:71] - A
+[13:52:52,106][8028][DEBUG][WinDemo.SubAlter:71] - A
+[13:52:52,259][8028][DEBUG][WinDemo.SubAlter:71] - A
+[13:52:52,384][8028][DEBUG][WinDemo.SubAlter:71] - A
+[13:52:53,228][8028][DEBUG][WinDemo.SubAlter:71] - A
+[13:53:01,913][8028][DEBUG][WinDemo.SubAlter:71] - A
+[13:53:06,787][8028][DEBUG][WinDemo.SubAlter:71] - A
+[13:53:14,102][8028][DEBUG][WinDemo.SubAlter:71] - A
+[13:53:17,705][8028][DEBUG][WinDemo.SubAlter:71] - A
+[13:57:21,634][5792][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[13:57:27,220][5792][DEBUG][WinDemo.SubAlter:59] - 修改操作
+[13:57:27,391][5792][DEBUG][WinDemo.SubAlter:59] - 修改操作
+[13:57:45,120][5792][DEBUG][WinDemo.SubAlter:59] - 修改操作
+[13:58:08,473][6420][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[13:58:15,386][6420][DEBUG][WinDemo.SubAlter:59] - 修改操作
+[14:01:07,481][7168][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[14:16:36,336][8728][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[14:17:49,461][8728][DEBUG][WinDemo.SubAlter:59] - 修改操作
+[14:17:53,221][8728][DEBUG][WinDemo.SubAlter:59] - 修改操作
+[14:17:57,604][8728][DEBUG][WinDemo.SubAlter:59] - 修改操作
+[14:18:11,826][8728][DEBUG][WinDemo.SubAlter:59] - 修改操作
+[14:18:19,236][8728][DEBUG][WinDemo.SubAlter:59] - 修改操作
+[14:19:01,548][5756][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[14:19:09,749][5756][DEBUG][WinDemo.SubAlter:60] - 修改操作
+[14:19:19,370][5756][DEBUG][WinDemo.SubAlter:60] - 修改操作
+[14:19:26,705][5756][DEBUG][WinDemo.SubAlter:60] - 修改操作
+[14:19:46,531][5756][DEBUG][WinDemo.SubAlter:60] - 修改操作
+[14:23:15,714][4188][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[14:23:25,208][4188][DEBUG][WinDemo.SubAlter:60] - 修改操作
+[14:23:33,972][4188][ERROR][WinDemo.UserForm:244] - 错误：未将对象引用设置到对象的实例。
+[14:23:35,244][4188][ERROR][WinDemo.UserForm:244] - 错误：未将对象引用设置到对象的实例。
+[14:23:35,948][4188][ERROR][WinDemo.UserForm:244] - 错误：未将对象引用设置到对象的实例。
+[14:23:36,327][4188][ERROR][WinDemo.UserForm:244] - 错误：未将对象引用设置到对象的实例。
+[14:23:36,943][4188][ERROR][WinDemo.UserForm:244] - 错误：未将对象引用设置到对象的实例。
+[14:23:37,379][4188][ERROR][WinDemo.UserForm:244] - 错误：未将对象引用设置到对象的实例。
+[14:23:38,342][4188][ERROR][WinDemo.UserForm:244] - 错误：未将对象引用设置到对象的实例。
+[14:23:39,303][4188][ERROR][WinDemo.UserForm:244] - 错误：未将对象引用设置到对象的实例。
+[14:23:39,958][4188][ERROR][WinDemo.UserForm:244] - 错误：未将对象引用设置到对象的实例。
+[14:23:40,442][4188][ERROR][WinDemo.UserForm:244] - 错误：未将对象引用设置到对象的实例。
+[14:23:40,738][4188][ERROR][WinDemo.UserForm:244] - 错误：未将对象引用设置到对象的实例。
+[14:23:41,066][4188][ERROR][WinDemo.UserForm:244] - 错误：未将对象引用设置到对象的实例。
+[14:23:42,100][4188][ERROR][WinDemo.UserForm:244] - 错误：未将对象引用设置到对象的实例。
+[14:23:42,859][4188][ERROR][WinDemo.UserForm:244] - 错误：未将对象引用设置到对象的实例。
+[14:24:15,599][6924][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[14:24:25,987][6924][DEBUG][WinDemo.SubAlter:60] - 修改操作
+[14:26:28,277][6032][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[14:47:07,698][7520][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[14:50:39,330][9120][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[14:51:18,048][5620][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[14:51:45,184][5820][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[14:52:06,526][7656][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[14:52:10,146][7656][ERROR][Win.Data.oracleDao:341] - oracle数据错误:ORA-00933: SQL command not properly ended
+
+[14:52:14,957][7656][ERROR][Win.Data.oracleDao:341] - oracle数据错误:ORA-00933: SQL command not properly ended
+
+[14:52:15,570][7656][ERROR][Win.Data.oracleDao:341] - oracle数据错误:ORA-00933: SQL command not properly ended
+
+[14:52:15,695][7656][ERROR][Win.Data.oracleDao:341] - oracle数据错误:ORA-00933: SQL command not properly ended
+
+[14:52:16,618][7656][ERROR][Win.Data.oracleDao:341] - oracle数据错误:ORA-00933: SQL command not properly ended
+
+[14:52:17,954][7656][ERROR][Win.Data.oracleDao:341] - oracle数据错误:ORA-00933: SQL command not properly ended
+
+[14:52:19,186][7656][ERROR][Win.Data.oracleDao:341] - oracle数据错误:ORA-00933: SQL command not properly ended
+
+[14:52:19,654][7656][ERROR][Win.Data.oracleDao:341] - oracle数据错误:ORA-00933: SQL command not properly ended
+
+[14:52:19,794][7656][ERROR][Win.Data.oracleDao:341] - oracle数据错误:ORA-00933: SQL command not properly ended
+
+[14:52:27,190][9416][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[14:53:00,361][7512][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[14:53:07,084][7512][ERROR][Win.Data.oracleDao:341] - oracle数据错误:ORA-00933: SQL command not properly ended
+
+[14:54:49,743][8944][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[14:54:59,123][8944][ERROR][Win.Data.oracleDao:341] - oracle数据错误:ORA-00933: SQL command not properly ended
+
+[14:55:00,687][8944][ERROR][Win.Data.oracleDao:341] - oracle数据错误:ORA-00933: SQL command not properly ended
+
+[14:55:02,163][8944][ERROR][Win.Data.oracleDao:341] - oracle数据错误:ORA-00933: SQL command not properly ended
+
+[14:55:45,318][7616][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[14:55:48,049][7616][ERROR][Win.Data.oracleDao:341] - oracle数据错误:ORA-00933: SQL command not properly ended
+
+[14:56:09,766][2676][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[14:58:59,563][9136][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[14:59:24,275][6252][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[15:00:01,205][1684][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[15:00:07,427][1684][INFO ][WinDemo.UserForm:351] - 删除：编号22,姓名E
+[15:04:19,961][2800][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[15:04:28,335][2800][INFO ][WinDemo.UserForm:174] - 删除：编号5,姓名孙
+[15:06:59,866][3408][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[15:10:35,148][8692][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[15:11:53,585][2188][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[15:12:34,391][2188][DEBUG][WinDemo.SubAlter:60] - 修改操作
+[15:12:43,048][2188][DEBUG][WinDemo.SubAlter:60] - 修改操作
+[15:19:50,866][7528][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[15:22:38,385][5544][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[15:37:09,606][5544][INFO ][WinDemo.UserForm:174] - 删除：编号9,姓名D
+[15:37:35,210][5544][INFO ][WinDemo.UserForm:174] - 删除：编号11,姓名吴
+[15:38:03,595][5544][INFO ][WinDemo.UserAddForm:86] - 添加新员工1
+[15:38:55,584][5544][INFO ][WinDemo.UserAddForm:86] - 添加新员工1
+[15:42:29,233][9712][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[15:44:10,472][5712][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[15:50:25,465][6364][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[15:52:23,204][5620][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[15:54:23,890][10068][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[16:07:47,953][4256][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[16:12:28,604][10104][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[16:48:39,295][8352][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[16:51:20,454][4228][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[16:51:50,073][2016][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[16:52:01,719][2016][DEBUG][WinDemo.SubAlter:73] - 修改操作
+[16:52:01,797][2016][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00904: "NAME": invalid identifier
+
+[16:52:20,252][2556][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[16:52:25,393][2556][DEBUG][WinDemo.SubAlter:73] - 修改操作
+[16:52:25,424][2556][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00904: "NAME": invalid identifier
+
+[16:53:40,381][1892][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[16:53:58,823][1892][DEBUG][WinDemo.SubAlter:73] - 修改操作
+[16:53:58,870][1892][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00904: "NAME": invalid identifier
+
+[16:54:21,054][6004][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[16:54:24,731][6004][DEBUG][WinDemo.SubAlter:73] - 修改操作
+[16:54:24,778][6004][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00904: "NAME": invalid identifier
+
+[16:55:42,098][7720][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[16:56:46,947][8580][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[16:57:13,345][6012][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[16:57:59,647][2552][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[17:00:18,588][5420][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[17:00:49,421][2016][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[17:01:01,012][2016][DEBUG][WinDemo.SubAlter:73] - 修改操作
+[17:01:01,071][2016][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00904: "NAME": invalid identifier
+
+[17:01:02,751][2016][DEBUG][WinDemo.SubAlter:73] - 修改操作
+[17:01:02,778][2016][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00904: "NAME": invalid identifier
+
+[17:01:05,123][2016][DEBUG][WinDemo.SubAlter:73] - 修改操作
+[17:01:05,155][2016][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00904: "NAME": invalid identifier
+
+[17:01:21,342][1664][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[17:01:25,186][1664][DEBUG][WinDemo.SubAlter:73] - 修改操作
+[17:01:25,249][1664][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00904: "NAME": invalid identifier
+
+[17:02:08,450][8224][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[17:04:06,464][8224][DEBUG][WinDemo.SubAlter:73] - 修改操作
+[17:04:12,630][8224][DEBUG][WinDemo.SubAlter:73] - 修改操作
+[17:04:55,708][8224][INFO ][WinDemo.UserForm:138] - 删除：编号95,姓名1
+[17:04:58,265][8224][INFO ][WinDemo.UserForm:138] - 删除：编号95,姓名1
+[17:05:02,376][8224][INFO ][WinDemo.UserForm:138] - 删除：编号88,姓名111
+[17:05:37,223][3292][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[17:05:46,693][3292][INFO ][WinDemo.UserForm:138] - 删除：编号2,姓名C
+[17:05:52,381][3292][INFO ][WinDemo.UserForm:138] - 删除：编号2,姓名C
+[17:05:56,442][3292][INFO ][WinDemo.UserForm:138] - 删除：编号3,姓名112
+[17:06:20,228][5620][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[17:06:28,524][5620][INFO ][WinDemo.UserForm:138] - 删除：编号10,姓名叶
+[17:08:54,862][7576][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[17:11:08,858][4596][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[17:19:40,516][5172][INFO ][WinDemo.Form1:45] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
